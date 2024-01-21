@@ -15,7 +15,7 @@ class LibraryManagementSystemGUI:
         self.entry_color = '#ecf0f1'
 
         # Increase window size
-        self.root.geometry("600x800")
+        self.root.geometry("400x400")
 
         self.library_name = "My Library"
         self.books = {}
